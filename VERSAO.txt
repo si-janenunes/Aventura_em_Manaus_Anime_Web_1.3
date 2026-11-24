@@ -2,3 +2,4 @@ Aventura em Manaus — versão 1.4
 
 Pasta do repositório mantida: Aventura_em_Manaus_Anime_Web_1.3
 Atualização: fundo de floresta/céu preenche as margens; Yga acompanha a escala e permanece alinhado ao chão e às plataformas; botões touch visíveis para mover, usar poderes, pular e descartar.
+Controles: direcionais separados e botão JOGAR NOVAMENTE clicável na tela de fim/conclusão.
