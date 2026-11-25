@@ -5,3 +5,4 @@ Atualização: fundo de floresta/céu preenche as margens; Yga acompanha a escal
 Controles: direcionais separados e botão JOGAR NOVAMENTE clicável na tela de fim/conclusão.
 Fase 1: botões posicionados na borda inferior conforme a tela; tempo esgotado tira uma vida e inicia nova tentativa; corações perdidos ficam cinza.
 Caixa surpresa movida para entre a árvore e o poste; no modo vertical, controles maiores e mais altos; no horizontal, layout preservado.
+Tela de conclusão da fase 1: Monstro do Lodo sem fundo ao lado de Yga e botão amarelo IR PARA BATALHA!; a cena de batalha permanece para implementação separada.
